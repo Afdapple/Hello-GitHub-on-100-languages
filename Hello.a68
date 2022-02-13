@@ -1,0 +1,5 @@
+hello = "show"
+if hello = "show"
+  then print("Hello GitHub")
+  else print("Try Again")
+fi
